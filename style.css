@@ -1,0 +1,126 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  list-style: none;
+}
+body {
+  background: url("./Images/pageBackground.jpg");
+  background-position: right top;
+  background-repeat: no-repeat;
+}
+.heading {
+  color: green;
+  font-size: 44px;
+  font-style: italic;
+  margin: 30px 300px 0;
+}
+.heading span {
+  color: orange;
+}
+.cls {
+  color: grey;
+  margin: 0 300px;
+}
+.cls a {
+  color: orange;
+}
+.nav {
+  height: 35px;
+  width: 400px;
+  background-color: lightcyan;
+  margin: 30px 300px 0;
+}
+.cls1 li {
+  float: left;
+  margin-left: 30px;
+  margin-top: 5px;
+}
+.cls1 li a {
+  text-decoration: none;
+  color: grey;
+}
+.main {
+  height: 935px;
+  width: 670px;
+  background-color: rgba(211, 211, 211, 0.5);
+  border-radius: 10px;
+  margin-top: 30px;
+  margin-left: 300px;
+  float: left;
+}
+.main1 {
+  height: 1100px;
+  width: 340px;
+  background-color: rgba(211, 211, 211, 0.5);
+  border-radius: 10px;
+  margin-top: 30px;
+  margin-left: 30px;
+  float: left;
+}
+.content {
+  margin-left: 25px;
+  margin-top: 25px;
+  margin-right: 25px;
+  float: left;
+}
+.content a {
+  color: orange;
+}
+.out {
+  height: 1500px;
+  width: 1500px;
+  /* border: 5px solid red; */
+}
+.summer {
+  background-color: black;
+  color: white;
+  margin: 15px;
+  padding: 5px;
+  width: 640px;
+  float: left;
+  font-style: italic;
+}
+.summer1 {
+  background-color: black;
+  color: white;
+  margin: 40px 20px;
+  padding: 5px;
+  width: 300px;
+  float: left;
+  font-style: italic;
+}
+.collection li {
+  float: left;
+  margin-left: 15px;
+  margin-top: 15px;
+  border-bottom: 2px dotted black;
+  height: 120px;
+  width: 635px;
+}
+.collection li a {
+  text-decoration: none;
+  color: white;
+  background-color: black;
+  float: right;
+  padding: 3px;
+}
+.collection li img {
+  float: left;
+}
+.collection li p {
+  margin-left: 170px;
+}
+.clear {
+  clear: both;
+}
+.main1 p {
+  margin-top: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.img {
+  margin-top: 20px;
+  margin-left: 100px;
+}
